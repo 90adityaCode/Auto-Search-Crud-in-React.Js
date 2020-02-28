@@ -8,10 +8,11 @@
     "redux",
     "example",
     "sample"
-  ], 
+  ],
   "dependencies": {
     "@material-ui/core": "3.0.0",
     "@material-ui/icons": "3.0.0",
+    "prop-types": "^15.7.2",
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-scripts": "1.1.4",
